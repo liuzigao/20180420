@@ -1,3 +1,7 @@
 Git is a ssh
 switched to a new branch is quick & sample.
+<<<<<<< HEAD
 git checkout master.
+=======
+git checkout -b dev.
+>>>>>>> dev
