@@ -1,2 +1,2 @@
 Git is a ssh
-switched to a new branch is quick and sample.
+switched to a new branch is quick & sample.
